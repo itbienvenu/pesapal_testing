@@ -60,4 +60,14 @@ Order submission successful: {
   status: '200'
 }
 
+
+
+Order submission successful: {
+  order_tracking_id: '9aafb43e-1a1b-473f-a986-daa3e4113a8c',
+  merchant_reference: '37737503-f321-49e3-851c-408a5e3a0685',
+  redirect_url: 'https://cybqa.pesapal.com/pesapaliframe/PesapalIframe3/Index?OrderTrackingId=9aafb43e-1a1b-473f-a986-daa3e4113a8c',
+  error: null,
+  status: '200'
+}
+
 */
